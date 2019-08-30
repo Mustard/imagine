@@ -1,5 +1,6 @@
 
-dist: bionic
+#dist: bionic
+dist: xenial
 
 language: java
 
